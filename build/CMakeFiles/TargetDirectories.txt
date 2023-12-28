@@ -1,3 +1,0 @@
-D:/code/cmake_demo/build/CMakeFiles/cmake_demo.dir
-D:/code/cmake_demo/build/CMakeFiles/edit_cache.dir
-D:/code/cmake_demo/build/CMakeFiles/rebuild_cache.dir
